@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SANKALP3011
-- 👀 I’m interested in WEB DEVELOPMENT & CYBER SECURITY
-- 🌱 I’m currently learning C++ ETHICAL HACKING SQL WEB DEVELOPMENT
+- 👀 I’m interested in Data Analytics and Data Science
+- 🌱 I’m currently learning Data Structures and Algorithms in C++, python, R and SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cheekutom@gmail.com
 
